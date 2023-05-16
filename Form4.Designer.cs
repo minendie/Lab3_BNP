@@ -38,7 +38,7 @@
             button2.Name = "button2";
             button2.Size = new Size(161, 92);
             button2.TabIndex = 3;
-            button2.Text = "UDP Client";
+            button2.Text = "UDP Server";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
@@ -48,7 +48,7 @@
             button1.Name = "button1";
             button1.Size = new Size(176, 95);
             button1.TabIndex = 2;
-            button1.Text = "UDP Server";
+            button1.Text = "UDP Client";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
